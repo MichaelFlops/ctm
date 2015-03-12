@@ -1,6 +1,6 @@
-% Documentation for main.coffee
-% Marcelo Siero and Michael Betts
-% March 9, 2015
+# Documentation for main.coffee
+## Marcelo Siero and Michael Betts
+### March 9, 2015
 
 This is an attempt at creating a super well-annotated program,
 with so much detail that it helps us learn and relearn how to
