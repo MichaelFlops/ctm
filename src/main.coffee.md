@@ -25,13 +25,15 @@ which is documented [here](http://code.google.com/p/pagedown/)
 >     converter = new Markdown.Converter()
 
 Declare a function called markdown with argument (s) that returns
-a call to methor convert.makeHtml(s)
+a call to method convert.makeHtml(s)
 
 >     markdown = (s) -> converter.makeHtml(s)
 >     
 
 Create some sample "CTM" code to start this off with
 using a heredoc (uses """) and interpolates if needed.
+
+*code* is a huge formatted string that displays as an example once the page renders.
 
 >     code = """
 >     ## Bouncing ball
